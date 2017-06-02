@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 5aed1830d7c92fb46823def756ca950e
+timeCreated: 1481351269
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRigTail1
+    100002: CATRigTail2
+    100004: CATRigTail3
+    100006: CATRigTail4
+    100008: CATRigTail5
+    100010: ClownFish001
+    100012: ClownFish002
+    100014: land2
+    100016: Scene1_beike005
+    100018: Scene1_beike2
+    100020: Scene1_beike_bone00
+    100022: Scene1_beike_bone01
+    100024: Scene1_beikerou
+    100026: Scene1_cao
+    100028: Scene1_cao2
+    100030: Scene1_cao3
+    100032: Scene1_fish1_bone00
+    100034: Scene1_fish1_bone01
+    100036: Scene1_fish1_bone02
+    100038: Scene1_fish1_bone03
+    100040: Scene1_fish1_bone04
+    100042: Scene1_fish1_bone05
+    100044: Scene1_fish1_bone06
+    100046: Scene1_fish2_bone00
+    100048: Scene1_fish2_bone01
+    100050: Scene1_fish2_bone02
+    100052: Scene1_fish2_bone03
+    100054: Scene1_fish2_bone04
+    100056: Scene1_fish2_bone05
+    100058: Scene1_fish2_bone06
+    100060: Scene1_sc00
+    100062: Scene1_sc01
+    100064: Scene1_sc02
+    100066: Scene1_sc03
+    100068: Scene1_sc04
+    100070: Scene1_sc05
+    100072: Scene1_sc06
+    100074: Scene1_sc1_bone
+    100076: Scene1_sc2_bone00
+    100078: Scene1_sc2_bone01
+    100080: Scene1_sc2_bone02
+    100082: Scene1_sc2_bone03
+    100084: Scene1_sc2_bone04
+    100086: Scene1_sc2_bone05
+    100088: Scene1_sc3_bone00
+    100090: Scene1_sc3_bone01
+    100092: Scene1_sc3_bone02
+    100094: Scene1_sc3_bone03
+    100096: Scene1_sc3_bone04
+    100098: Scene1_sc3_bone05
+    100100: Scene1_sha001
+    100102: Scene1_stone
+    100104: Scene1_zhenzhu
+    100106: //RootNode
+    400000: CATRigTail1
+    400002: CATRigTail2
+    400004: CATRigTail3
+    400006: CATRigTail4
+    400008: CATRigTail5
+    400010: ClownFish001
+    400012: ClownFish002
+    400014: land2
+    400016: Scene1_beike005
+    400018: Scene1_beike2
+    400020: Scene1_beike_bone00
+    400022: Scene1_beike_bone01
+    400024: Scene1_beikerou
+    400026: Scene1_cao
+    400028: Scene1_cao2
+    400030: Scene1_cao3
+    400032: Scene1_fish1_bone00
+    400034: Scene1_fish1_bone01
+    400036: Scene1_fish1_bone02
+    400038: Scene1_fish1_bone03
+    400040: Scene1_fish1_bone04
+    400042: Scene1_fish1_bone05
+    400044: Scene1_fish1_bone06
+    400046: Scene1_fish2_bone00
+    400048: Scene1_fish2_bone01
+    400050: Scene1_fish2_bone02
+    400052: Scene1_fish2_bone03
+    400054: Scene1_fish2_bone04
+    400056: Scene1_fish2_bone05
+    400058: Scene1_fish2_bone06
+    400060: Scene1_sc00
+    400062: Scene1_sc01
+    400064: Scene1_sc02
+    400066: Scene1_sc03
+    400068: Scene1_sc04
+    400070: Scene1_sc05
+    400072: Scene1_sc06
+    400074: Scene1_sc1_bone
+    400076: Scene1_sc2_bone00
+    400078: Scene1_sc2_bone01
+    400080: Scene1_sc2_bone02
+    400082: Scene1_sc2_bone03
+    400084: Scene1_sc2_bone04
+    400086: Scene1_sc2_bone05
+    400088: Scene1_sc3_bone00
+    400090: Scene1_sc3_bone01
+    400092: Scene1_sc3_bone02
+    400094: Scene1_sc3_bone03
+    400096: Scene1_sc3_bone04
+    400098: Scene1_sc3_bone05
+    400100: Scene1_sha001
+    400102: Scene1_stone
+    400104: Scene1_zhenzhu
+    400106: //RootNode
+    2300000: land2
+    2300002: Scene1_beike2
+    2300004: Scene1_beikerou
+    2300006: Scene1_cao
+    2300008: Scene1_cao2
+    2300010: Scene1_cao3
+    2300012: Scene1_sha001
+    2300014: Scene1_stone
+    2300016: Scene1_zhenzhu
+    3300000: land2
+    3300002: Scene1_beike2
+    3300004: Scene1_beikerou
+    3300006: Scene1_cao
+    3300008: Scene1_cao2
+    3300010: Scene1_cao3
+    3300012: Scene1_sha001
+    3300014: Scene1_stone
+    3300016: Scene1_zhenzhu
+    4300000: ClownFish001
+    4300002: ClownFish002
+    4300004: Scene1_cao3
+    4300006: Scene1_sc05
+    4300008: Scene1_sc06
+    4300010: Scene1_sc02
+    4300012: Scene1_sc04
+    4300014: Scene1_sc01
+    4300016: Scene1_sc00
+    4300018: Scene1_zhenzhu
+    4300020: Scene1_beike2
+    4300022: Scene1_cao
+    4300024: Scene1_stone
+    4300026: Scene1_sc03
+    4300028: Scene1_cao2
+    4300030: Scene1_beikerou
+    4300032: Scene1_beike005
+    4300034: Scene1_sha001
+    4300036: land2
+    7400000: 4rooms_by3dmo1202
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: ClownFish001
+    13700002: ClownFish002
+    13700004: Scene1_beike005
+    13700006: Scene1_sc00
+    13700008: Scene1_sc01
+    13700010: Scene1_sc02
+    13700012: Scene1_sc03
+    13700014: Scene1_sc04
+    13700016: Scene1_sc05
+    13700018: Scene1_sc06
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 4rooms_by3dmo1202
+      takeName: 4rooms_by3dmo1202
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ClownFish001
+        weight: 1
+      - path: ClownFish002
+        weight: 1
+      - path: land2
+        weight: 1
+      - path: Scene1_beike2
+        weight: 1
+      - path: Scene1_beike005
+        weight: 1
+      - path: Scene1_beike_bone00
+        weight: 1
+      - path: Scene1_beike_bone00/Scene1_beike_bone01
+        weight: 1
+      - path: Scene1_beikerou
+        weight: 1
+      - path: Scene1_cao
+        weight: 1
+      - path: Scene1_cao2
+        weight: 1
+      - path: Scene1_cao3
+        weight: 1
+      - path: Scene1_fish1_bone00
+        weight: 1
+      - path: Scene1_fish1_bone00/Scene1_fish1_bone01
+        weight: 1
+      - path: Scene1_fish1_bone00/Scene1_fish1_bone01/Scene1_fish1_bone02
+        weight: 1
+      - path: Scene1_fish1_bone00/Scene1_fish1_bone01/Scene1_fish1_bone02/Scene1_fish1_bone03
+        weight: 1
+      - path: Scene1_fish1_bone00/Scene1_fish1_bone01/Scene1_fish1_bone02/Scene1_fish1_bone03/Scene1_fish1_bone04
+        weight: 1
+      - path: Scene1_fish1_bone00/Scene1_fish1_bone01/Scene1_fish1_bone02/Scene1_fish1_bone03/Scene1_fish1_bone04/Scene1_fish1_bone05
+        weight: 1
+      - path: Scene1_fish1_bone00/Scene1_fish1_bone01/Scene1_fish1_bone02/Scene1_fish1_bone03/Scene1_fish1_bone04/Scene1_fish1_bone05/Scene1_fish1_bone06
+        weight: 1
+      - path: Scene1_fish2_bone00
+        weight: 1
+      - path: Scene1_fish2_bone00/Scene1_fish2_bone01
+        weight: 1
+      - path: Scene1_fish2_bone00/Scene1_fish2_bone01/Scene1_fish2_bone02
+        weight: 1
+      - path: Scene1_fish2_bone00/Scene1_fish2_bone01/Scene1_fish2_bone02/Scene1_fish2_bone03
+        weight: 1
+      - path: Scene1_fish2_bone00/Scene1_fish2_bone01/Scene1_fish2_bone02/Scene1_fish2_bone03/Scene1_fish2_bone04
+        weight: 1
+      - path: Scene1_fish2_bone00/Scene1_fish2_bone01/Scene1_fish2_bone02/Scene1_fish2_bone03/Scene1_fish2_bone04/Scene1_fish2_bone05
+        weight: 1
+      - path: Scene1_fish2_bone00/Scene1_fish2_bone01/Scene1_fish2_bone02/Scene1_fish2_bone03/Scene1_fish2_bone04/Scene1_fish2_bone05/Scene1_fish2_bone06
+        weight: 1
+      - path: Scene1_sc00
+        weight: 1
+      - path: Scene1_sc01
+        weight: 1
+      - path: Scene1_sc1_bone
+        weight: 1
+      - path: Scene1_sc1_bone/CATRigTail1
+        weight: 1
+      - path: Scene1_sc1_bone/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: Scene1_sc1_bone/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: Scene1_sc1_bone/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: Scene1_sc1_bone/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5
+        weight: 1
+      - path: Scene1_sc02
+        weight: 1
+      - path: Scene1_sc2_bone00
+        weight: 1
+      - path: Scene1_sc2_bone00/Scene1_sc2_bone01
+        weight: 1
+      - path: Scene1_sc2_bone00/Scene1_sc2_bone01/Scene1_sc2_bone02
+        weight: 1
+      - path: Scene1_sc2_bone00/Scene1_sc2_bone01/Scene1_sc2_bone02/Scene1_sc2_bone03
+        weight: 1
+      - path: Scene1_sc2_bone00/Scene1_sc2_bone01/Scene1_sc2_bone02/Scene1_sc2_bone03/Scene1_sc2_bone04
+        weight: 1
+      - path: Scene1_sc2_bone00/Scene1_sc2_bone01/Scene1_sc2_bone02/Scene1_sc2_bone03/Scene1_sc2_bone04/Scene1_sc2_bone05
+        weight: 1
+      - path: Scene1_sc03
+        weight: 1
+      - path: Scene1_sc3_bone00
+        weight: 1
+      - path: Scene1_sc3_bone00/Scene1_sc3_bone01
+        weight: 1
+      - path: Scene1_sc3_bone00/Scene1_sc3_bone01/Scene1_sc3_bone02
+        weight: 1
+      - path: Scene1_sc3_bone00/Scene1_sc3_bone01/Scene1_sc3_bone02/Scene1_sc3_bone03
+        weight: 1
+      - path: Scene1_sc3_bone00/Scene1_sc3_bone01/Scene1_sc3_bone02/Scene1_sc3_bone03/Scene1_sc3_bone04
+        weight: 1
+      - path: Scene1_sc3_bone00/Scene1_sc3_bone01/Scene1_sc3_bone02/Scene1_sc3_bone03/Scene1_sc3_bone04/Scene1_sc3_bone05
+        weight: 1
+      - path: Scene1_sc04
+        weight: 1
+      - path: Scene1_sc05
+        weight: 1
+      - path: Scene1_sc06
+        weight: 1
+      - path: Scene1_sha001
+        weight: 1
+      - path: Scene1_stone
+        weight: 1
+      - path: Scene1_zhenzhu
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

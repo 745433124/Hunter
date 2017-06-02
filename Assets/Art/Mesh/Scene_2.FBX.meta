@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: 6629af1c1605e124aa110de38cc709b9
+timeCreated: 1481351269
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: land010
+    100002: Object021
+    100004: room2_fish1
+    100006: room2_fish1_bone00
+    100008: room2_fish1_bone01
+    100010: room2_fish1_bone02
+    100012: room2_fish1_bone03
+    100014: room2_fish1_bone04
+    100016: room2_fish1_bone05
+    100018: room2_fish2
+    100020: room2_fish2_bone00
+    100022: room2_fish2_bone01
+    100024: room2_fish2_bone02
+    100026: room2_fish2_bone03
+    100028: room2_fish2_bone04
+    100030: room2_fish2_bone05
+    100032: Scene2_bs
+    100034: Scene2_bx
+    100036: Scene2_cao
+    100038: Scene2_jz
+    100040: //RootNode
+    400000: land010
+    400002: Object021
+    400004: room2_fish1
+    400006: room2_fish1_bone00
+    400008: room2_fish1_bone01
+    400010: room2_fish1_bone02
+    400012: room2_fish1_bone03
+    400014: room2_fish1_bone04
+    400016: room2_fish1_bone05
+    400018: room2_fish2
+    400020: room2_fish2_bone00
+    400022: room2_fish2_bone01
+    400024: room2_fish2_bone02
+    400026: room2_fish2_bone03
+    400028: room2_fish2_bone04
+    400030: room2_fish2_bone05
+    400032: Scene2_bs
+    400034: Scene2_bx
+    400036: Scene2_cao
+    400038: Scene2_jz
+    400040: //RootNode
+    2300000: land010
+    2300002: Object021
+    2300004: Scene2_bs
+    2300006: Scene2_bx
+    2300008: Scene2_cao
+    2300010: Scene2_jz
+    3300000: land010
+    3300002: Object021
+    3300004: Scene2_bs
+    3300006: Scene2_bx
+    3300008: Scene2_cao
+    3300010: Scene2_jz
+    4300000: room2_fish2
+    4300002: room2_fish1
+    4300004: Scene2_cao
+    4300006: Scene2_jz
+    4300008: Scene2_bx
+    4300010: Scene2_bs
+    4300012: Object021
+    4300014: land010
+    7400000: 4rooms_by3dmo1202
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: room2_fish1
+    13700002: room2_fish2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 4rooms_by3dmo1202
+      takeName: 4rooms_by3dmo1202
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: land010
+        weight: 1
+      - path: Object021
+        weight: 1
+      - path: room2_fish1
+        weight: 1
+      - path: room2_fish1_bone00
+        weight: 1
+      - path: room2_fish1_bone00/room2_fish1_bone01
+        weight: 1
+      - path: room2_fish1_bone00/room2_fish1_bone01/room2_fish1_bone02
+        weight: 1
+      - path: room2_fish1_bone00/room2_fish1_bone01/room2_fish1_bone02/room2_fish1_bone03
+        weight: 1
+      - path: room2_fish1_bone00/room2_fish1_bone01/room2_fish1_bone02/room2_fish1_bone03/room2_fish1_bone04
+        weight: 1
+      - path: room2_fish1_bone00/room2_fish1_bone01/room2_fish1_bone02/room2_fish1_bone03/room2_fish1_bone04/room2_fish1_bone05
+        weight: 1
+      - path: room2_fish2
+        weight: 1
+      - path: room2_fish2_bone00
+        weight: 1
+      - path: room2_fish2_bone00/room2_fish2_bone01
+        weight: 1
+      - path: room2_fish2_bone00/room2_fish2_bone01/room2_fish2_bone02
+        weight: 1
+      - path: room2_fish2_bone00/room2_fish2_bone01/room2_fish2_bone02/room2_fish2_bone03
+        weight: 1
+      - path: room2_fish2_bone00/room2_fish2_bone01/room2_fish2_bone02/room2_fish2_bone03/room2_fish2_bone04
+        weight: 1
+      - path: room2_fish2_bone00/room2_fish2_bone01/room2_fish2_bone02/room2_fish2_bone03/room2_fish2_bone04/room2_fish2_bone05
+        weight: 1
+      - path: Scene2_bs
+        weight: 1
+      - path: Scene2_bx
+        weight: 1
+      - path: Scene2_cao
+        weight: 1
+      - path: Scene2_jz
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

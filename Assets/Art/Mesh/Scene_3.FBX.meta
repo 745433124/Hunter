@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: b3c25d73173fd634abdedbd888472c07
+timeCreated: 1481351270
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone001
+    100002: Bone002
+    100004: Bone003
+    100006: CATRigTail1
+    100008: CATRigTail2
+    100010: CATRigTail3
+    100012: CATRigTail4
+    100014: CATRigTail5
+    100016: CATRigTail6
+    100018: CATRigTail7
+    100020: CATRigTail8
+    100022: land50
+    100024: Object007
+    100026: Object019
+    100028: Object022
+    100030: room3_shark
+    100032: room3_shark_bone00
+    100034: Scene3_boat001
+    100036: Scene3_bs
+    100038: Scene3_bx
+    100040: Scene3_cao1
+    100042: Scene3_jz
+    100044: Scene3_mu
+    100046: Scene3_qizi
+    100048: //RootNode
+    400000: Bone001
+    400002: Bone002
+    400004: Bone003
+    400006: CATRigTail1
+    400008: CATRigTail2
+    400010: CATRigTail3
+    400012: CATRigTail4
+    400014: CATRigTail5
+    400016: CATRigTail6
+    400018: CATRigTail7
+    400020: CATRigTail8
+    400022: land50
+    400024: Object007
+    400026: Object019
+    400028: Object022
+    400030: room3_shark
+    400032: room3_shark_bone00
+    400034: Scene3_boat001
+    400036: Scene3_bs
+    400038: Scene3_bx
+    400040: Scene3_cao1
+    400042: Scene3_jz
+    400044: Scene3_mu
+    400046: Scene3_qizi
+    400048: //RootNode
+    2300000: land50
+    2300002: Object019
+    2300004: Object022
+    2300006: Scene3_boat001
+    2300008: Scene3_bs
+    2300010: Scene3_bx
+    2300012: Scene3_cao1
+    2300014: Scene3_jz
+    2300016: Scene3_mu
+    3300000: land50
+    3300002: Object019
+    3300004: Object022
+    3300006: Scene3_boat001
+    3300008: Scene3_bs
+    3300010: Scene3_bx
+    3300012: Scene3_cao1
+    3300014: Scene3_jz
+    3300016: Scene3_mu
+    4300000: room3_shark
+    4300002: Scene3_mu
+    4300004: Scene3_jz
+    4300006: Scene3_cao1
+    4300008: Scene3_bs
+    4300010: Scene3_qizi
+    4300012: Scene3_boat001
+    4300014: Object019
+    4300016: Object022
+    4300018: Scene3_bx
+    4300020: land50
+    7400000: 4rooms_by3dmo1202
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: room3_shark
+    13700002: Scene3_qizi
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 4rooms_by3dmo1202
+      takeName: 4rooms_by3dmo1202
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone001
+        weight: 1
+      - path: Bone001/Bone002
+        weight: 1
+      - path: Bone001/Bone002/Bone003
+        weight: 1
+      - path: land50
+        weight: 1
+      - path: Object007
+        weight: 1
+      - path: Object019
+        weight: 1
+      - path: Object022
+        weight: 1
+      - path: room3_shark
+        weight: 1
+      - path: room3_shark_bone00
+        weight: 1
+      - path: room3_shark_bone00/CATRigTail1
+        weight: 1
+      - path: room3_shark_bone00/CATRigTail1/CATRigTail2
+        weight: 1
+      - path: room3_shark_bone00/CATRigTail1/CATRigTail2/CATRigTail3
+        weight: 1
+      - path: room3_shark_bone00/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4
+        weight: 1
+      - path: room3_shark_bone00/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5
+        weight: 1
+      - path: room3_shark_bone00/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5/CATRigTail6
+        weight: 1
+      - path: room3_shark_bone00/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5/CATRigTail6/CATRigTail7
+        weight: 1
+      - path: room3_shark_bone00/CATRigTail1/CATRigTail2/CATRigTail3/CATRigTail4/CATRigTail5/CATRigTail6/CATRigTail7/CATRigTail8
+        weight: 1
+      - path: Scene3_boat001
+        weight: 1
+      - path: Scene3_bs
+        weight: 1
+      - path: Scene3_bx
+        weight: 1
+      - path: Scene3_cao1
+        weight: 1
+      - path: Scene3_jz
+        weight: 1
+      - path: Scene3_mu
+        weight: 1
+      - path: Scene3_qizi
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 9312b9ac8f557a444989220a3c16e008
+timeCreated: 1481351269
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone115
+    100002: Bone116
+    100004: Bone117
+    100006: Bone118
+    100008: Bone119
+    100010: Bone120
+    100012: Bone121
+    100014: Bone122
+    100016: Bone123
+    100018: Bone124
+    100020: Bone125
+    100022: Box003
+    100024: Dummy008
+    100026: Dummy012
+    100028: Dummy013
+    100030: land100
+    100032: Scene4_009
+    100034: Scene4_010
+    100036: Scene4_011
+    100038: Scene4_04
+    100040: Scene4_pai
+    100042: Scene4_ta
+    100044: Scene4_zs
+    100046: //RootNode
+    400000: Bone115
+    400002: Bone116
+    400004: Bone117
+    400006: Bone118
+    400008: Bone119
+    400010: Bone120
+    400012: Bone121
+    400014: Bone122
+    400016: Bone123
+    400018: Bone124
+    400020: Bone125
+    400022: Box003
+    400024: Dummy008
+    400026: Dummy012
+    400028: Dummy013
+    400030: land100
+    400032: Scene4_009
+    400034: Scene4_010
+    400036: Scene4_011
+    400038: Scene4_04
+    400040: Scene4_pai
+    400042: Scene4_ta
+    400044: Scene4_zs
+    400046: //RootNode
+    2300000: land100
+    2300002: Scene4_009
+    2300004: Scene4_010
+    2300006: Scene4_011
+    2300008: Scene4_04
+    2300010: Scene4_pai
+    2300012: Scene4_ta
+    2300014: Scene4_zs
+    3300000: land100
+    3300002: Scene4_009
+    3300004: Scene4_010
+    3300006: Scene4_011
+    3300008: Scene4_04
+    3300010: Scene4_pai
+    3300012: Scene4_ta
+    3300014: Scene4_zs
+    4300000: Box003
+    4300002: Scene4_pai
+    4300004: Scene4_ta
+    4300006: Scene4_zs
+    4300008: Scene4_04
+    4300010: Scene4_009
+    4300012: Scene4_010
+    4300014: Scene4_011
+    4300016: land100
+    7400000: 4rooms_by3dmo1202
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Box003
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 4rooms_by3dmo1202
+      takeName: 4rooms_by3dmo1202
+      firstFrame: 0
+      lastFrame: 240
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone115
+        weight: 1
+      - path: Bone115/Bone116
+        weight: 1
+      - path: Bone115/Bone116/Bone117
+        weight: 1
+      - path: Bone115/Bone116/Bone117/Bone118
+        weight: 1
+      - path: Bone115/Bone116/Bone117/Bone118/Bone119
+        weight: 1
+      - path: Bone115/Bone116/Bone117/Bone118/Bone119/Bone120
+        weight: 1
+      - path: Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121
+        weight: 1
+      - path: Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122
+        weight: 1
+      - path: Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122/Bone123
+        weight: 1
+      - path: Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122/Bone123/Bone124
+        weight: 1
+      - path: Bone115/Bone116/Bone117/Bone118/Bone119/Bone120/Bone121/Bone122/Bone123/Bone124/Bone125
+        weight: 1
+      - path: Box003
+        weight: 1
+      - path: Dummy012
+        weight: 1
+      - path: Dummy012/Scene4_zs
+        weight: 1
+      - path: Dummy013
+        weight: 1
+      - path: Dummy013/Dummy008
+        weight: 1
+      - path: Dummy013/Dummy008/Scene4_04
+        weight: 1
+      - path: Dummy013/Dummy008/Scene4_009
+        weight: 1
+      - path: Dummy013/Dummy008/Scene4_010
+        weight: 1
+      - path: Dummy013/Dummy008/Scene4_011
+        weight: 1
+      - path: land100
+        weight: 1
+      - path: Scene4_pai
+        weight: 1
+      - path: Scene4_ta
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

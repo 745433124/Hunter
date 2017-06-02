@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 2c13f9f9214df754095b0f574e049ba8
+timeCreated: 1481351269
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bone_HaimaNeck003
+    100002: Bone_HaimaNeck004
+    100004: Bone_HaimaNeck1
+    100006: Bone_HaimaNeck2
+    100008: Bone_HaimaPelivs
+    100010: Bone_HaimaPelivs001
+    100012: Bone_HaimaRibcage
+    100014: Bone_HaimaRibcage001
+    100016: Bone_HaimaTail1
+    100018: Bone_HaimaTail1 1
+    100020: Bone_HaimaTail2
+    100022: Bone_HaimaTail2 1
+    100024: Bone_HaimaTail3
+    100026: Bone_HaimaTail3 1
+    100028: Bone_HaimaTail4
+    100030: Bone_HaimaTail4 1
+    100032: Bone_HaimaTail5
+    100034: Bone_HaimaTail5 1
+    100036: Bone_HaimaTail6
+    100038: Bone_HaimaTail6 1
+    100040: Haima002
+    100042: Haima004
+    100044: land1
+    100046: Scene0_cao
+    100048: Scene1
+    100050: //RootNode
+    400000: Bone_HaimaNeck003
+    400002: Bone_HaimaNeck004
+    400004: Bone_HaimaNeck1
+    400006: Bone_HaimaNeck2
+    400008: Bone_HaimaPelivs
+    400010: Bone_HaimaPelivs001
+    400012: Bone_HaimaRibcage
+    400014: Bone_HaimaRibcage001
+    400016: Bone_HaimaTail1
+    400018: Bone_HaimaTail1 1
+    400020: Bone_HaimaTail2
+    400022: Bone_HaimaTail2 1
+    400024: Bone_HaimaTail3
+    400026: Bone_HaimaTail3 1
+    400028: Bone_HaimaTail4
+    400030: Bone_HaimaTail4 1
+    400032: Bone_HaimaTail5
+    400034: Bone_HaimaTail5 1
+    400036: Bone_HaimaTail6
+    400038: Bone_HaimaTail6 1
+    400040: Haima002
+    400042: Haima004
+    400044: land1
+    400046: Scene0_cao
+    400048: Scene1
+    400050: //RootNode
+    2300000: land1
+    2300002: Scene0_cao
+    2300004: Scene1
+    3300000: land1
+    3300002: Scene0_cao
+    3300004: Scene1
+    4300000: Scene0_cao
+    4300002: Scene1
+    4300004: land1
+    4300006: Haima002
+    4300008: Haima004
+    7400000: 4rooms_by3dmo1202
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Haima002
+    13700002: Haima004
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: 4rooms_by3dmo1202
+      takeName: 4rooms_by3dmo1202
+      firstFrame: 0
+      lastFrame: 200
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone_HaimaPelivs
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaNeck1
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaNeck1/Bone_HaimaNeck2
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaNeck1/Bone_HaimaNeck2/Bone_HaimaRibcage
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaTail1
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaTail1/Bone_HaimaTail2
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaTail1/Bone_HaimaTail2/Bone_HaimaTail3
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaTail1/Bone_HaimaTail2/Bone_HaimaTail3/Bone_HaimaTail4
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaTail1/Bone_HaimaTail2/Bone_HaimaTail3/Bone_HaimaTail4/Bone_HaimaTail5
+        weight: 1
+      - path: Bone_HaimaPelivs/Bone_HaimaTail1/Bone_HaimaTail2/Bone_HaimaTail3/Bone_HaimaTail4/Bone_HaimaTail5/Bone_HaimaTail6
+        weight: 1
+      - path: Bone_HaimaPelivs001
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaNeck003
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaNeck003/Bone_HaimaNeck004
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaNeck003/Bone_HaimaNeck004/Bone_HaimaRibcage001
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaTail1 1
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaTail1 1/Bone_HaimaTail2 1
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaTail1 1/Bone_HaimaTail2 1/Bone_HaimaTail3
+          1
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaTail1 1/Bone_HaimaTail2 1/Bone_HaimaTail3
+          1/Bone_HaimaTail4 1
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaTail1 1/Bone_HaimaTail2 1/Bone_HaimaTail3
+          1/Bone_HaimaTail4 1/Bone_HaimaTail5 1
+        weight: 1
+      - path: Bone_HaimaPelivs001/Bone_HaimaTail1 1/Bone_HaimaTail2 1/Bone_HaimaTail3
+          1/Bone_HaimaTail4 1/Bone_HaimaTail5 1/Bone_HaimaTail6 1
+        weight: 1
+      - path: Haima002
+        weight: 1
+      - path: Haima004
+        weight: 1
+      - path: land1
+        weight: 1
+      - path: Scene0_cao
+        weight: 1
+      - path: Scene1
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

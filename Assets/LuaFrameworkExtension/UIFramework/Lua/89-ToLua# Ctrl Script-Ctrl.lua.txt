@@ -1,0 +1,24 @@
+require "Common/define"
+require "Logic/UIPanelBase"
+
+#SCRIPTNAME# = UIPanelBase:New();
+local gameObject;
+local transform;
+local tweener;
+
+function #SCRIPTNAME#.New()
+	return #SCRIPTNAME#;
+end
+
+function #SCRIPTNAME#.Awake()
+	panelMgr:CreatePanel('Prompt', #SCRIPTNAME#.OnCreate);
+end
+
+function #SCRIPTNAME#.OnCreate(obj)
+	gameObject = obj;
+	transform = obj.transform;
+	#SCRIPTNAME#.gameObject = obj;
+	#SCRIPTNAME#.transform = obj.transform;
+
+	#SCRIPTNAME#:Open();--确保设置PanelManager.cs实例化出来的Panel为隐藏状态
+end
